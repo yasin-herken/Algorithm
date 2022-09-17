@@ -1,2 +1,2 @@
 # Algorithm
-In my free time, I improve my analytical thinking, and logic.
+In my free time, I improve my analytical thinking by solving complex problem.
