@@ -13,3 +13,6 @@ answers.push(checkPermutation("god","dog"));
 answers.push(checkPermutation("ab","bc"));
 
 console.log(answers);
+
+
+export {};
